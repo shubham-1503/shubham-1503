@@ -19,7 +19,8 @@ Here, I showcase my top personal projects that I believe are worth sharing. Take
 
 ## Projects 🛠️
 
-Here are some highlights of my projects:
+Here are some of my major projects. Click on the links to dive into detailed descriptions and view project screenshots in the README files.
+
 
 - [ChatterHub](https://github.com/shubham-1503/ChatterHub): A Group chat application which makes use of socket.io and various AWS.
 
