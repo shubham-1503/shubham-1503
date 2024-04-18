@@ -19,7 +19,8 @@ Here, I showcase my top personal projects that I believe are worth sharing. Take
 
 ## Projects 🛠️
 
-Here are some of my major projects. Click on the links to dive into detailed descriptions and view project screenshots in the README files.
+🚀 Here are some of my major projects.
+🔍 Click on the links to explore the project details along with screenshots.
 
 
 - [ChatterHub](https://github.com/shubham-1503/ChatterHub): A Group chat application which makes use of socket.io and various AWS.
@@ -31,5 +32,3 @@ Here are some of my major projects. Click on the links to dive into detailed des
 - [POS Billing System](https://github.com/shubham-1503/Backyard-Snooker-Cafe): Created a fully customised POS Billing System for friend's cafe which is currently being used.
 
 Feel free to explore more projects in the repositories section below! 
-
------
