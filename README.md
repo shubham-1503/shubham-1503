@@ -1,20 +1,30 @@
-# Hi there 👋, I'm Shubham Pawar!
-#### Best Developer in this world!
+# Hi 👋, I'm Shubham Pawar!
 
+## Welcome to my GitHub profile! 🚀 
+Here, I showcase my top personal projects that I believe are worth sharing. Take a look around and feel free to explore! 🌟
 
- ### What I'm doing: 
- 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 📫 How to reach me: 
-- ⚡ Fun fact:
+## About Me ⚡
 
-### Stats
+- 🎓 Currently pursuing my Master of Applied Computer Science at Dalhousie University.
+- 💼 Previously, I honed my skills as a Software Developer at Thompson Reuters.
+- 💡 My work experience revolves around .NET Framework with C#
+- 💡 I'm also passionate about exploring frontend technologies like React with Tailwind CSS.
+- 💡 I've crafted numerous projects leveraging the power of Spring Boot.
+- 💡 Additionally, I possess a solid understanding of AWS and have implemented various solutions within its ecosystem.
+- 🌱 With a strong foundation laid, I'm on a journey to evolve into an exceptional Full Stack Developer.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham_1503&count_private=true)  
- 
-### Reach me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shubham-1503)
- 
+## Reach out to me 📝
+- 📫 Email: shubhampawar1503.sp@gmail.com
+- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/shubham-pawar-2556001b5)
+
+## Projects 🛠️
+
+Here are some highlights of my projects:
+
+- [Project Name](Link to Project): Brief description.
+- [Project Name](Link to Project): Brief description.
+- [Project Name](Link to Project): Brief description.
+
+Feel free to explore more projects in the repositories section below! 
+
 -----
