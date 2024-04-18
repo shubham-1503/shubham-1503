@@ -21,7 +21,7 @@ Here, I showcase my top personal projects that I believe are worth sharing. Take
 
 Here are some highlights of my projects:
 
-- [ChatterHub](https://github.com/shubham-1503/ChatterHub): A Group chat application.
+- [ChatterHub](https://github.com/shubham-1503/ChatterHub): A Group chat application which makes use of socket.io and various AWS.
 
   
 - [CureConnect](https://github.com/shubham-1503/CureConnect): One stop destination for appoitment management, medicine purchase, online consultation and prescription management catering the needs of both Doctor and Patient.
