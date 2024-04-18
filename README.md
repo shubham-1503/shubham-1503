@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shubham Pawar!
+# Hi 👋, I'm Shubham Pawar !
 
 ## Welcome to my GitHub profile! 🚀 
 Here, I showcase my top personal projects that I believe are worth sharing. Take a look around and feel free to explore! 🌟
@@ -21,9 +21,9 @@ Here, I showcase my top personal projects that I believe are worth sharing. Take
 
 Here are some highlights of my projects:
 
-- [Project Name](Link to Project): Brief description.
-- [Project Name](Link to Project): Brief description.
-- [Project Name](Link to Project): Brief description.
+- [ChatterHub](https://github.com/shubham-1503/ChatterHub): A Group chat application.
+- [CureConnect](https://github.com/shubham-1503/CureConnect): One stop destination for appoitment management, medicine purchase, online consultation and prescription management catering the needs of both Doctor and Patient.
+- [POS Billing System](https://github.com/shubham-1503/Backyard-Snooker-Cafe): Created a fully customised POS Billing System for friend's cafe which is currently being used.
 
 Feel free to explore more projects in the repositories section below! 
 
