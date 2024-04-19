@@ -28,7 +28,7 @@ Here are some of the technologies I work with:
 
 🗄️ **Database and Data Storage :** ---------------------> SQL, SQL Server, MySQL, MongoDB, RDS, S3, Firebase
 
-☁️ **DevOps and Cloud Technologies :** ---------------> Git, Docker, AWS (Lambda, EC2, ECR, ECS, ELB, VPC, API Gateway, SNS), Kubernetes
+☁️ **DevOps and Cloud Technologies :** ---------------> Git, Docker, AWS (Lambda, ECR, ECS, ELB, VPC, API Gateway, SNS), Kubernetes
 
 
 ---
