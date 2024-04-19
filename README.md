@@ -1,13 +1,13 @@
-# Hi 👋, I'm Shubham Pawar !
+# Hi, I'm Shubham Pawar! 👋
 
 ## Welcome to my GitHub profile! 🚀 
-Here, I showcase my top personal projects that I believe are worth sharing. Take a look around and feel free to explore! 🌟
+Here, I showcase my top personal projects that I believe are worth sharing. Take a look around and feel free to explore! ✨
 
 ## About Me ⚡
 
 - 🎓 Currently pursuing my Master of Applied Computer Science at Dalhousie University.
 - 💼 Previously, I honed my skills as a Software Developer at Thompson Reuters.
-- 💡 My work experience revolves around .NET Framework with C#
+- 💡 My work experience revolves around .NET Framework with C#.
 - 💡 I'm also passionate about exploring frontend technologies like React with Tailwind CSS.
 - 💡 I've crafted numerous projects leveraging the power of Spring Boot.
 - 💡 Additionally, I possess a solid understanding of AWS and have implemented various solutions within its ecosystem.
@@ -16,7 +16,7 @@ Here, I showcase my top personal projects that I believe are worth sharing. Take
 ## Technologies 🛠️
 Here are some of the technologies I work with:
 
-- **Programming Languages and Frameworks:**  Java, C#, JavaScript, .NET Framework, Spring Boot
+- **Programming Languages and Frameworks:** Java, C#, JavaScript, .NET Framework, Spring Boot
 - **Frontend Development:** React.js, HTML, CSS, Bootstrap, Tailwind
 - **Mobile Development:** React Native, Android Development
 - **Database and Data Storage:** SQL, SQL Server, MySQL, MongoDB, RDS, S3, Firebase
@@ -29,15 +29,10 @@ Here are some of the technologies I work with:
 ## Projects 🛠️
 
 🚀 Here are some of my major projects.
-🔍 Click on the links to explore the project details along with screenshots.
-
+🔍 Click on the links to explore the project details along with screenshots:
 
 - [ChatterHub](https://github.com/shubham-1503/ChatterHub): A Group chat application which makes use of socket.io and various AWS.
-
-  
-- [CureConnect](https://github.com/shubham-1503/CureConnect): One stop destination for appoitment management, medicine purchase, online consultation and prescription management catering the needs of both Doctor and Patient.
-
-  
-- [POS Billing System](https://github.com/shubham-1503/Backyard-Snooker-Cafe): Created a fully customised POS Billing System for friend's cafe which is currently being used.
+- [CureConnect](https://github.com/shubham-1503/CureConnect): One stop destination for appointment management, medicine purchase, online consultation, and prescription management catering to the needs of both Doctor and Patient.
+- [POS Billing System](https://github.com/shubham-1503/Backyard-Snooker-Cafe): Created a fully customized POS Billing System for friend's cafe which is currently being used.
 
 Feel free to explore more projects in the repositories section below! 
