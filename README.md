@@ -20,24 +20,30 @@ Here, I showcase my top personal projects that I believe are worth sharing. Take
 ## Technologies 🛠️
 Here are some of the technologies I work with:
 
-- **Programming Languages and Frameworks:** Java, C#, JavaScript, .NET Framework, Spring Boot
-- **Frontend Development:** React.js, HTML, CSS, Bootstrap, Tailwind
-- **Mobile Development:** React Native, Android Development
-- **Database and Data Storage:** SQL, SQL Server, MySQL, MongoDB, RDS, S3, Firebase
-- **DevOps and Cloud Technologies:** Git, Docker, AWS (Lambda, EC2, ECR, ECS, ELB, VPC, API Gateway, SNS), Kubernetes
+🚀 **Programming Languages and Frameworks :** ----> Java, C#, JavaScript, .NET Framework, Spring Boot
+
+🌐 **Frontend Development :** --------------------------> React.js, HTML, CSS, Bootstrap, Tailwind
+
+📱 **Mobile Development :** ----------------------------> React Native, Android Development
+
+🗄️ **Database and Data Storage :** ---------------------> SQL, SQL Server, MySQL, MongoDB, RDS, S3, Firebase
+
+☁️ **DevOps and Cloud Technologies :** ---------------> Git, Docker, AWS (Lambda, EC2, ECR, ECS, ELB, VPC, API Gateway, SNS), Kubernetes
+
 
 ---
 
 ## Reach out to me 📝
-- 📫 **Email:** shubhampawar1503.sp@gmail.com
-- 💼 **LinkedIn:** [LinkedIn](www.linkedin.com/in/shubham-pawar-2556001b5)
+-  **Email 📫 :** shubhampawar1503.sp@gmail.com
+-  **LinkedIn 💼 :** [LinkedIn](www.linkedin.com/in/shubham-pawar-2556001b5)
 
 ---
 
 ## Projects 🛠️
 
-🚀 **Here are some of my major projects.**
-🔍 **Click on the links to explore the project details along with screenshots:**
+ **Here are some of my major projects.** 🚀 
+ 
+ **Click on the links to explore the project details along with screenshots:** 🔍
 
 - [ChatterHub](https://github.com/shubham-1503/ChatterHub): A Group chat application which makes use of socket.io and various AWS.
 - [CureConnect](https://github.com/shubham-1503/CureConnect): One stop destination for appointment management, medicine purchase, online consultation, and prescription management catering to the needs of both Doctor and Patient.
