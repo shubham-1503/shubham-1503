@@ -13,6 +13,15 @@ Here, I showcase my top personal projects that I believe are worth sharing. Take
 - 💡 Additionally, I possess a solid understanding of AWS and have implemented various solutions within its ecosystem.
 - 🌱 With a strong foundation laid, I'm on a journey to evolve into an exceptional Full Stack Developer.
 
+## Technologies 🛠️
+Here are some of the technologies I work with:
+
+- **Programming Languages and Frameworks:**  Java, C#, JavaScript, .NET Framework, Spring Boot
+- **Frontend Development:** React.js, HTML, CSS, Bootstrap, Tailwind
+- **Mobile Development:** React Native, Android Development
+- **Database and Data Storage:** SQL, SQL Server, MySQL, MongoDB, RDS, S3, Firebase
+- **DevOps and Cloud Technologies:** Git, Docker, AWS (Lambda, EC2, ECR, ECS, ELB, VPC, API Gateway, SNS), Kubernetes
+
 ## Reach out to me 📝
 - 📫 Email: shubhampawar1503.sp@gmail.com
 - 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/shubham-pawar-2556001b5)
