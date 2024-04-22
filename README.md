@@ -47,6 +47,7 @@ Here are some of the technologies I work with:
 
 - [ChatterHub](https://github.com/shubham-1503/ChatterHub): A Group chat application which makes use of socket.io and various AWS.
 - [CureConnect](https://github.com/shubham-1503/CureConnect): One stop destination for appointment management, medicine purchase, online consultation, and prescription management catering to the needs of both Doctor and Patient.
+- [DalBites](https://github.com/shubham-1503/Dalbites/tree/main): Save time by discovering and ordering from campus restaurants to avoid stand in queues.
 - [POS Billing System](https://github.com/shubham-1503/Backyard-Snooker-Cafe): Created a fully customized POS Billing System for friend's cafe which is currently being used.
 
 Feel free to explore more projects in the repositories section below! 
