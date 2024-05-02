@@ -36,7 +36,7 @@ Here are some of the technologies I work with:
 
 ## Reach out to me 📝
 -  **Email 📫 :** shubhampawar1503.sp@gmail.com
--  **LinkedIn 💼 :** [LinkedIn](www.linkedin.com/in/shubham-pawar-2556001b5)
+-  **LinkedIn 💼 :** [LinkedIn](https://www.linkedin.com/in/shubham-pawar-2556001b5/)
 
 ---
 
