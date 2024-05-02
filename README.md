@@ -8,6 +8,7 @@ Here, I showcase my top personal projects that I believe are worth sharing. Take
 ## About Me ⚡
 
 - 🎓 **Currently pursuing my Master of Applied Computer Science at Dalhousie University.**
+- 🎓 **Actively seeking Co-op opportunities for Fall 2024.**
 - 💼 **Previously, I honed my skills as a Software Developer at Thompson Reuters.**
 - 💡 **My work experience revolves around .NET Framework with C#.**
 - 💡 **I'm also passionate about exploring frontend technologies like React with Tailwind CSS.**
