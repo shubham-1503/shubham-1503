@@ -50,6 +50,6 @@ Here are some of the technologies I work with:
 - [CureConnect](https://github.com/shubham-1503/CureConnect): One stop destination for appointment management, medicine purchase, online consultation, and prescription management catering to the needs of both Doctor and Patient.
 - [DalBites](https://github.com/shubham-1503/Dalbites/tree/main): Save time by discovering and ordering from campus restaurants to avoid stand in queues.
 - [POS Billing System](https://github.com/shubham-1503/Backyard-Snooker-Cafe): Created a fully customized POS Billing System for friend's cafe which is currently being used.
-- [SaveClick](https://github.com/shubham-1503/SaveClick) : A SaaS web application using AWS which allowed registeed users to share images.
+- [SaveClick](https://github.com/shubham-1503/SaveClick) : A SaaS web application using AWS which allowed registered users to share images.
 
 Feel free to explore more projects in the repositories section below! 
